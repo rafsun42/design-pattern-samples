@@ -1,2 +1,2 @@
 # design-pattern-samples
-Application of popular design pattern and principles with sample code.
+Application of popular design patterns and principles with sample code.
